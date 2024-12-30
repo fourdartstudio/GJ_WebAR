@@ -1,4 +1,4 @@
-const cacheName = "FourDArt-GJ_WebAR-0.1.2";
+const cacheName = "FourDArt-GJ_WebAR-0.1.3";
 const contentToCache = [
     "Build/GJ_WebAR.loader.js",
     "Build/GJ_WebAR.framework.js",
